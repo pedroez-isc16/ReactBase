@@ -4,21 +4,24 @@
 
 ###Descripcion 
 
-Este proyecto cuenta con lo basico para iniciar un proyecto en react
-incluye:
- -react react-dom
+Este proyecto cuenta con lo basico para iniciar un proyecto en react incluye
+
+ - react react-dom
  - @babel/core babel-loader @babel/preset-env @babel/preset-react
- -webpack-dev-server
- -eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
-####indicaciones
+ - webpack-dev-server
+ - eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+indicaciones
 
 Instalar dependecias 
+
 **npm install**
 
 iniciar proyecto
+
 **npm rund start**
 
 Compilar proyecto a produccion
+
 **npm rund build**
 
 
