@@ -1,8 +1,8 @@
-#Proyecto Base de React.js
+# Proyecto Base de React.js
 
-##@EduardoPalomares
+## @EduardoPalomares
 
-###Descripcion 
+### Descripcion 
 
 Este proyecto cuenta con lo basico para iniciar un proyecto en react incluye
 
